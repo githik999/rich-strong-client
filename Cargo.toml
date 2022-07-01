@@ -8,3 +8,5 @@ license = "GPL-3.0"
 
 [dependencies]
 rich-strong-lib = "0.1.0"
+[patch.crates-io]
+rich-strong-lib = { path = '../lib' }

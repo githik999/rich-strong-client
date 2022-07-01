@@ -155,8 +155,6 @@ dependencies = [
 [[package]]
 name = "rich-strong-lib"
 version = "0.1.2"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e9e5cb355f20fd065db0b7c6c03a847aaf59b66dc0d3364c7f350dfca73cccc2"
 dependencies = [
  "backtrace",
  "configparser",
